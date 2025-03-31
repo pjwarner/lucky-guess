@@ -1,0 +1,56 @@
+##{congrats_text}
+
+**Lucky Guess Standings**
+
+{score_board}
+
+#If I missed your vote please send me a PM.
+
+**Comments must include:**
+
+* Final Score (winner must be specified)
+* Tiebreaker question
+* Format: [Score] [Winner] [Tiebreaker]
+
+**All guesses must be submitted by the posted start time to qualify.** 
+
+**Scoring will be as follows:**
+
+* Exact guess = 6 points.   
+* Off by one run = 1 point.   
+* In the event of a tie, the loser of the tiebreaker scores 2 points. 
+
+**If two users pick the same score with the same tiebreaker, the person who submitted their guess first will be awarded the 6 points. The same rule will apply when two tiebreakers guess are equally close to the actual result.**
+
+**Scores will be tallied each night and submitted to the post-game thread. They will also appear in the "Standings" section of future Lucky Guess posts.**
+
+#Now let's play ball!
+##Game time is {game_time}.  Submissions made after this time will not be counted.
+##Tiebreaker for today is {tie_breaker}
+
+# Reminder: do not edit your comment. If you need to change your guess, delete your comment and submit a new guess. 
+
+#Matchup Statistics
+
+You can find the lineups [here](http://www.fangraphs.com/livescoreboard.aspx?) before game time. 
+
+#Good luck!
+    
+**[{away_team}]({away_subreddit})**  
+**Acceptable Team Selections {away_selections}**  
+  
+|Starting Pitcher|Throws|W-L|IP|WHIP|BAA|ERA|
+:|:--:|:--:|:--:|:--:|:--:|:--:|
+{away_pitcher}
+  
+**[{home_team}]({home_subreddit})**  
+**Acceptable Team Selections {home_selections}**  
+  
+|Starting Pitcher|Throws|W-L|IP|WHIP|BAA|ERA|
+:|:--:|:--:|:--:|:--:|:--:|:--:|
+{home_pitcher}
+
+#Good luck!
+
+
+
