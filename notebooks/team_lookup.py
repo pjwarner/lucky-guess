@@ -39,7 +39,7 @@ team_selection = {
         'Rays':['TBR', 'rays', 'TB'],
         'Twins':['MIN', 'twins'],
         'Guardians':['CLE', 'guardians'],
-        'Royals':['KCR', 'royals'],
+        'Royals':['KCR', 'royals', 'KC'],
         'Tigers':['DET', 'tigers'],
         'White Sox':['CWS', 'white sox'],
         'Rangers':['TEX', 'rangers'],
