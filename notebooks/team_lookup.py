@@ -1,6 +1,5 @@
 team_subs = {
         'Orioles':'/r/orioles',
-        'Baltimore Orioles':'/r/orioles',
         'Yankees':'/r/NYYankees',
         'Red Sox':'/r/redsox',
         'Blue Jays':'/r/TorontoBlueJays',
@@ -34,7 +33,6 @@ team_subs = {
 
 team_selection = {
        'Orioles': ['BAL', 'Os', "O's", 'Orioles'],
-        'Baltimore Orioles': ['BAL', 'Os', "O's", 'Orioles'],
         'Yankees':['NYY', 'Yanks', 'yankees'],
         'Red Sox':['BOS', 'bosox', 'red socks', 'red sox'],
         'Blue Jays':['TOR', 'jays', 'Blue Jays'],
